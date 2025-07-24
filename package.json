@@ -1,0 +1,56 @@
+{
+  "name": "the-prime-themes",
+  "displayName": "The Prime Themes – Cosmic Collections",
+  "description": "A futuristic theme collection inspired by cosmic phenomena and prime aesthetics. By The Prime Step Community.",
+  "version": "1.0.0",
+  "publisher": "satyamrana",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "tps",
+    "theprimestep",
+    "The Prime Step",
+    "Aethria",
+    "SatyamRana",
+    "theme",
+    "dark",
+    "cosmic",
+    "futuristic",
+    "vscode-theme",
+    "Prime",
+    "developer-theme"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satyamrana/the-prime-themes"
+  },
+  "bugs": {
+    "url": "https://github.com/satyamrana/the-prime-themes/issues"
+  },
+  "homepage": "https://github.com/satyamrana/the-prime-themes",
+  "contributes": {
+    "themes": [
+      {
+        "label": "The Prime Themes: Voidwalker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Voidwalker.json"
+      },
+      {
+        "label": "The Prime Themes: Lumenrift",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lumenrift.json"
+      },
+      {
+        "label": "The Prime Themes: Darkquark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkquark.json"
+      }
+    ]
+  }
+}
