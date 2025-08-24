@@ -1,55 +1,30 @@
 {
   "name": "the-prime-themes",
-  "displayName": "The Prime Themes – Cosmic Collections",
-  "description": "A futuristic theme collection inspired by cosmic phenomena and prime aesthetics. By The Prime Step Community.",
-  "version": "1.0.0",
+  "displayName": "The Prime Themes",
+  "description": "Legendary futuristic VS Code themes built by Satyam Rana.",
+  "version": "1.0.2",
   "publisher": "satyamrana",
-  "engines": {
-    "vscode": "^1.102.0"
-  },
   "icon": "icon.png",
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "tps",
-    "theprimestep",
-    "The Prime Step",
-    "Aethria",
-    "SatyamRana",
-    "theme",
-    "dark",
-    "cosmic",
-    "futuristic",
-    "vscode-theme",
-    "Prime",
-    "developer-theme"
-  ],
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/satyamranatc/the-prime-themes"
+  "engines": {
+    "vscode": "^1.60.0"
   },
-  "bugs": {
-    "url": "https://github.com/satyamranatc/the-prime-themes/issues"
-  },
-  "homepage": "https://github.com/satyamranatc/the-prime-themes",
+  "categories": ["Themes"],
   "contributes": {
     "themes": [
       {
-        "label": "The Prime Themes: Voidwalker",
+        "label": "Voidwalker",
         "uiTheme": "vs-dark",
         "path": "./themes/Voidwalker.json"
       },
       {
-        "label": "The Prime Themes: Lumenrift",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Lumenrift.json"
-      },
-      {
-        "label": "The Prime Themes: Darkquark",
+        "label": "Darkquark",
         "uiTheme": "vs-dark",
         "path": "./themes/Darkquark.json"
+      },
+      {
+        "label": "Lumenrift",
+        "uiTheme": "vs-light",
+        "path": "./themes/Lumenrift.json"
       }
     ]
   }

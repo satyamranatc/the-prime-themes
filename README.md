@@ -2,11 +2,7 @@
 
 A futuristic, cosmic-themed collection of VS Code color schemes inspired by deep space and dark matter aesthetics. Crafted with elegance by **The Prime Step Community**.
 
-![Voidwalker](https://img.shields.io/badge/Voidwalker-%23009a97?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Lumenrift](https://img.shields.io/badge/Lumenrift-darkslateblue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Darkquark](https://img.shields.io/badge/Darkquark-%23101010?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
 
 ## ✨ Themes Included
 
@@ -25,4 +21,4 @@ A futuristic, cosmic-themed collection of VS Code color schemes inspired by deep
 Or use VSIX:
 
 ```bash
-code --install-extension the-prime-themes-1.0.0.vsix
+code --install-extension the-prime-themes-1.0.1.vsix
